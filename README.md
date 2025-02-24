@@ -1,2 +1,2 @@
-# CheckpointProjectPython
-1st Checkpoint Project in Python: Mini Pokémon Game
+# Checkpoint Project Python - Terminal Adventure
+After finishing the Checkpoint Projects "Paper, Scissors, Rocks" and "Area Calculator", I wanted to try something fun for "Terminal Adventure"
